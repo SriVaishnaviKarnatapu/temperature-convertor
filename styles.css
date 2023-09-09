@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  background-color: pink;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(201, 154, 205, 0.622);
+  padding: 20px;
+  text-align: center;
+}
+
+.converter {
+  margin-top: 20px;
+}
+
+button {
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+p {
+  margin-top: 10px;
+}
